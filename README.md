@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">DevOps Enthusiast | Continuous Learner | Problem Solver</h3>
+<h3 align="center">I’m on an exciting journey to master the world of DevOps, with a focus on: Automation with tools like Ansible, Jenkins, and Terraform Containerization & Orchestration using Docker and Kubernetes Cloud Computing (currently diving deep into AWS) Monitoring with Prometheus and Grafana 🛠️ Skills & Interests Linux Systems Administration 🐧 Scripting with Bash/Shell 🔧 Version Control using Git & GitLab 🔀 Networking Essentials 🌐 📚 What I'm Learning I’ve created a roadmap to systematically gain expertise in DevOps, tackling topics like virtualization, CI/CD pipelines, infrastructure as code (IaC), and cloud-native technologies. 🌟 My Philosophy "Automate everything that can be automated!" 💡 Let's Collaborate I’m open to contributions, collaborations, and exciting projects that align with my learning goals. Let’s build something awesome together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavk03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavk03" /> </p>
 
